@@ -21,8 +21,6 @@ The project contains three main layers:
 
 ## 📸 Screenshots
 
-> Replace these with your own images (`screenshots/1.png` and `screenshots/2.png`).
-
 <p align="center">
   <img src="screenshots/1.png" width="360" alt="Home screen">
   <img src="screenshots/2.png" width="360" alt="Prediction result">
